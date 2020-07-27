@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ctp-otm/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ctp-otm/static/js/main.e119fede.chunk.js",
+    "main.js.map": "/ctp-otm/static/js/main.e119fede.chunk.js.map",
+    "runtime-main.js": "/ctp-otm/static/js/runtime-main.d4ef3ec0.js",
+    "runtime-main.js.map": "/ctp-otm/static/js/runtime-main.d4ef3ec0.js.map",
+    "static/js/2.536f6268.chunk.js": "/ctp-otm/static/js/2.536f6268.chunk.js",
+    "static/js/2.536f6268.chunk.js.map": "/ctp-otm/static/js/2.536f6268.chunk.js.map",
+    "index.html": "/ctp-otm/index.html",
+    "precache-manifest.5f80d73ab90cb07f06ec8ca2cac60c3d.js": "/ctp-otm/precache-manifest.5f80d73ab90cb07f06ec8ca2cac60c3d.js",
+    "service-worker.js": "/ctp-otm/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ctp-otm/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.536f6268.chunk.js.LICENSE.txt": "/ctp-otm/static/js/2.536f6268.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ctp-otm/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4ef3ec0.js",
+    "static/js/2.536f6268.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e119fede.chunk.js"
+  ]
+}
